@@ -1,1 +1,3 @@
 # Neural-Network-Denver-Crime-Dataset
+
+The objective here is to train a Neural Network for regression on the regression data we already used on Assign1, we will use  5-fold cross validation to find out the best neural network parameters and present them. The neural network will predict the appliances usage depending on the features in the dataset. We also implemented the Neural Network for Non-Linear Logistic Regression on the classification dataset we used in Assign2, we will again use 5-fold cross validation and find the best parameter and present the cross validation accuracies. Here, the neural network will classify if a reported incident is crime or not on the Denver dataset.
